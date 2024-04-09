@@ -3,7 +3,9 @@
 ## Introduction
 Hello! I'm Evan Kauh, a passionate programmer and explorer of the digital and physical worlds. This page is a brief overview of who I am, both professionally and personally.
 
-![Evan Profile img](images/profile_pic.jpeg) 
+![Evan Profile img](images/profile_pic.jpeg)
+<img src="images/profile_pic.jpeg" alt="Alt text" width="100" height="100">
+
 
 ### What I Do
 I specialize in SDE and have worked on various projects in Java and Python. I love solving problems and building solutions that make a difference.
