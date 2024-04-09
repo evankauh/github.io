@@ -4,7 +4,7 @@
 Hello! I'm Evan Kauh, a passionate programmer and explorer of the digital and physical worlds. This page is a brief overview of who I am, both professionally and personally.
 
 <!-- ![Evan Profile img](images/profile_pic.jpeg) -->
-<img src="images/profile_pic.jpeg" alt="Alt text" width="1000" height="1000">
+<img src="images/profile_pic.jpeg" alt="Alt text" width="500" height="500">
 
 
 ### What I Do
